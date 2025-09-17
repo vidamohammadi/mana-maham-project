@@ -1,7 +1,6 @@
 <template>
-  <v-container fluid class="fill-height">
-    <v-row class="align-center justify-center">
-      <v-sheet class="mx-auto border border-success border-opacity-100 pa-5 " width="400">
+  <v-container fluid class="fill-height" style="margin-top: 180px">
+       <v-sheet class="mx-auto border border-error border-opacity-100 pa-5 my-auto rounded"  width="400">
         <v-form @submit.prevent="login">
           <v-text-field
               v-model="userName"
@@ -13,11 +12,10 @@
               variant="outlined"
               label="Password"
           ></v-text-field>
-          <v-btn class="mt-2 bg-success" type="submit" block>Login</v-btn>
+          <v-btn class="mt-2 bg-orange-darken-4" type="submit" block>Login</v-btn>
         </v-form>
       </v-sheet>
-    </v-row>
-   </v-container>
+    </v-container>
 
 </template>
 <script setup>
