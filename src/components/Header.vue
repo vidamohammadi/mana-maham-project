@@ -23,8 +23,7 @@ const headerStore = useHeaderStore();
 
 onMounted(() => {
   headerStore.setHeader(header);
-  console.log("Section Items:", headerStore.header);
-});
+ });
 </script>
 
 

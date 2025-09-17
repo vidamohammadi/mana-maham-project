@@ -10,7 +10,7 @@ export const useSectionItemsStore = defineStore('section', {
     },
     actions:{
        setSectionItems(data) {
-           this.setSectionItemsState = data
+           this.sectionItemState = data
        }
     }
 })
