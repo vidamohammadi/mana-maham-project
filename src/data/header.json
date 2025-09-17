@@ -1,5 +1,7 @@
-[{
+{
   "imageUrl" : "../public/img/header.png",
   "title": "Discover Your Next Favorite Book",
-  "description": "Explore our curated collection of bestselling and classic books. Find stories that inspire, educate, and entertain readers of all ages."
-}]
+  "description":
+"Books are gateways to new worlds; each page can take you to an unknown land, introduce you to unforgettable characters, and give you experiences that may never be possible in real life. In this collection, we have brought together a blend of bestselling works, timeless classics, and the writings of emerging authors to cover every taste and interest.\n\nWhether you are looking for passionate romances, historically rich stories full of lessons, or management and self-development books to support your personal and professional growth, here you can find a choice that perfectly matches your mood and needs. Reading each book is not only an opportunity to learn but also a bridge to deeper connections with others and a better understanding of the world around us.\n\nJoin us and choose a book that not only fills your moments but also enriches your mind and heart."
+
+}
