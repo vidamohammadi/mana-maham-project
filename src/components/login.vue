@@ -1,5 +1,6 @@
 <template>
 
+  <v-btn class="bg-red">test</v-btn>
 
  </template>
 
